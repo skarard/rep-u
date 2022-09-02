@@ -1,0 +1,22 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain-types
+bin
+deployment
+balances
+tx
+.cache
+.vscode
+.VSCodeCounter
+whitelist/*.json
+giveaway/failedTransaction.json
+giveaway/successQueue-0.json
+
+# Hardhat files
+cache
+artifacts
+
+# Solidtiy files
+soljson*.js

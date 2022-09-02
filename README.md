@@ -1,4 +1,4 @@
-# Rep-U
+# Privacy First Identity / Reputation SBTs
 
 This project is an experiment in composable identity & reputation that remains private.
 

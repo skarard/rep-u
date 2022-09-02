@@ -1,0 +1,6 @@
+{
+  "exit": true,
+  "extension": ["ts"],
+  "spec": "**/*.spec.ts",
+  "require": ["ts-node/register", "test/hooks.ts"]
+}
