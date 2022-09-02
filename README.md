@@ -3,7 +3,7 @@
 This project is an experiment in composable identity & reputation that remains private.
 
 # The problem
-Hyperfinacialasion of blockchain technology has developed a capital-based reputation system. The value of a community is in the reputation of its members, some will have acquired capital-growing skills others will have acquired expertise in other areas.
+Hyper-financialization of blockchain technology has developed a capital-based reputation system. The value of a community is in the reputation of its members, some will have acquired capital-growing skills others will have acquired expertise in other areas.
 
 Reputation should be sharable, sharable is intrinsically a choice, it is private until it is shared. Someone's Identity is made up of intrinsic factors such as gender, age, race, sexuality, etc. It also consists of their experiences and experiences lead to reputation. An individual should be free to share some or none of this information.
 
