@@ -12,3 +12,5 @@ That's what we are here to find.
 My proposal is a ZK reputation system where identity and reputation can be composed and shared as a choice of the user.
 
 For example, a social platform requires you to be over the age of 13 to sign up. We can have a ZK identity token which when queried about age can confirm whether the user is over the age of 13, without requiring to specify a birthdate.
+
+The result of this experiment is to build the protocol and a couple of proof of concept services that would use them. eg sign up forms that replace KYC with NFTs and social media logins where you don't share any details you don't want to (even with the service provider) but are provable yourself.
